@@ -1,5 +1,5 @@
 # JSminiproject-Draft
-|:CI Testing:|:Jekyll CI:|
+|Build|ekyll site CI|
 |:--:|:--:|
-![CI](https://github.com/stepin105005/JSminiproject-Draft/workflows/CI/badge.svg)
+![CI](https://github.com/stepin105005/JSminiproject-Draft/workflows/CI/badge.svg)|
 ![Jekyll site CI](https://github.com/stepin105005/JSminiproject-Draft/workflows/Jekyll%20site%20CI/badge.svg)
